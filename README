@@ -2,6 +2,7 @@
 
 int main(){
 
-	printf("Hello I'm a git_first_file!");
+	printf("Hello I'm a git_first_file!\n");
+	printf("Don't know this doing!");
 	return 0;
 }
